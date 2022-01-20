@@ -1,2 +1,14 @@
-# covidABM
-This is an agent based model depicting preventative measures to prevent Covid-19 spread and deaths. This is meant to be run in NetLogo.
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-001.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-002.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-003.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-004.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-005.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-006.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-007.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-008.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-009.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-010.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-011.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-012.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-013.jpg)
+![](Final_Paper_Photos.docx/DATA_444_Final_Paper-page-014.jpg)
