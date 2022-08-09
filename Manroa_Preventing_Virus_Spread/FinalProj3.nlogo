@@ -42,13 +42,13 @@ to create-agents
   set mask-allotted 0
   set vaccine-allotted 0
   set virus-allotted 0
-  create-people 200
+  create-people 670
   [
     set age random 100
-    set size 4
+    set size 3
     set status "alive"
     let choose-virus random 100
-    ifelse choose-virus <= 5 and virus-allotted < 9
+    ifelse choose-virus <= 5 and virus-allotted < 9 ; find this data
     [set virus? 1
       set color red
       set virus-allotted virus-allotted + 1]
@@ -60,7 +60,7 @@ to create-agents
 
     if use-masks = true [
       let choose-mask random 100
-      ifelse choose-mask >= 66 and mask-allotted < 134
+      ifelse choose-mask >= 66 and mask-allotted < 134 ; find this data
       [set mask? 1
         set mask-allotted mask-allotted + 1
         set shape "circle"]
@@ -71,7 +71,7 @@ to create-agents
 
     if use-vaccine = true [
       let choose-vaccine random 100
-      ifelse choose-vaccine < 5 and vaccine-allotted < 9 and virus? = 0
+      ifelse choose-vaccine < 5 and vaccine-allotted < 9 and virus? = 0 ; find this data
       [set vaccine? 1
         set color blue
         set vaccine-allotted vaccine-allotted + 1]
